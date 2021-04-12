@@ -8,6 +8,10 @@ body {
   min-height: 38px;
   max-height: 38px;
 }
+#secondary-info {
+  float: left;
+  width: 49%;
+}
 .title {
   color: #7c323f;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
